@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaXeRzz
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Ai
+- 🌱 I’m currently learning AI
 
 <!---
 HaXeRzz/HaXeRzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
